@@ -28,3 +28,4 @@ RUN (sed -i 's/deb.debian.org/mirrors.aliyun.com/g' /etc/apt/sources.list.d/debi
     && sed -i 's@<decor>no<\/decor>@<decor>yes<\/decor>@g' /opt/base/etc/openbox/rc.xml.template \
     && mv /opt/noVNC/index.html /opt/noVNC/index.html.en \
     && sed -i '/messagebus/d' /var/lib/dpkg/statoverride
+    
