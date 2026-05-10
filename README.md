@@ -1,7 +1,6 @@
 # NonStopQQ Docker
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/reenter/nonstopqq.svg)](https://hub.docker.com/r/reenter/nonstopqq)
-[![License](https://img.shields.io/github/license/unenter/nonstopqq)](LICENSE)
 
 **NonStopQQ** 是一个基于 Docker 的 Linux 版 QQ 远程运行方案。它集成了无头（Headless）运行环境和 Web 访问界面，让你可以在服务器、NAS 或私有云上 7x24 小时挂机 QQ，并通过浏览器随时进行管理。
 
