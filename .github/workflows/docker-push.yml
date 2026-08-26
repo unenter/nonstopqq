@@ -34,3 +34,5 @@ jobs:
           tags: |
             reenter/nonstopqq:latest
             reenter/nonstopqq:${{ github.sha }}
+
+  
