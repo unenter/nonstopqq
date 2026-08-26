@@ -1,6 +1,6 @@
 FROM jlesage/baseimage-gui:debian-13-v4.11.3
 
-ARG QQ_VER=3.2.28_260429
+ARG QQ_VER=3.2.32_260812
 
 ENV APP_NAME="QQ"
 ENV NOVNC_LANGUAGE="zh_Hans"
